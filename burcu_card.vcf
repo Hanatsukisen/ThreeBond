@@ -1,10 +1,13 @@
 BEGIN:VCARD
 VERSION:3.0
-FN:Burcu Dere
+N:DERE;Burcu;;;
+FN: DERE Burcu
 ORG:ThreeBond Europe S.A.S ISTANBUL BRANCH
 TITLE:Branch Manager
 TEL;TYPE=work,voice:+90 532 668 5259
 EMAIL:b-dere@threebond.com.tr
 URL:https://threebond-europe.com
 ADR:;;Barbaros Mah. Sarkaç Sk. No:1 Ağaoğlu My Prestige, Kat:3 Daire:14 PK: 34746 Ataşehir ;İSTANBUL;;TURKEY
+
 END:VCARD
+
