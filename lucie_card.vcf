@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:LORPHELIN;Lucie;;;
+FN: LORPHELIN Lucie
+ORG:ThreeBond Europe S.A.S 
+TITLE:Technical sales engineer
+TEL;TYPE=work,voice:+33 7 49 39 75 77
+EMAIL:lorphelin@threebond.fr
+URL:threebond-europe.com
+ADR:;;16 Avenue des Béthunes;SAINT-OUEN-L'AUMÔNE (95310);;FRANCE
+
+END:VCARD
