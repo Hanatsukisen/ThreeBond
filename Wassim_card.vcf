@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:BENYOUSSEF;Wassim;;;
+FN: BENYOUSSEF Wassim
+ORG:ThreeBond Europe S.A.S 
+TITLE:Technical sales engineer
+TEL;TYPE=work,voice:+33 6 07 26 90 25
+EMAIL:benyoussef@threebond.fr
+URL:threebond-europe.com
+ADR:;;26 Avenue des Béthunes;SAINT-OUEN-L'AUMÔNE (95310);;FRANCE
+
+END:VCARD
