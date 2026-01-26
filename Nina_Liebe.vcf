@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:LIEBE;Nina;;;
+FN: LIEBE Nina
+ORG:ThreeBond GmbH
+TITLE:Sales manager
+TEL;TYPE=work,voice:+49-(0)2103-78958-19
+TEL;TYPE=cell,voice:+49-(0)173-266-6458
+EMAIL:n-liebe@threebond.de
+URL:https://threebond-europe.com
+ADR:;;Giesenheide 40, 40724; Hilden;;GERMANY
+
+END:VCARD
