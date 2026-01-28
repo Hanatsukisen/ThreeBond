@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:EICHLER;Yann;;;
+FN: EICHLER Yann
+ORG:ThreeBond Europe S.A.S FRANCE
+TITLE:Sales manager
+TEL;TYPE=work,voice:+33 6 07 26 90 32
+EMAIL:eichler@threebond.fr
+URL:https://threebond-europe.com
+ADR:;;26 avenue des Béthunes, 95310 ;SAINT OUEN L AUMONE;;FRANCE
+
+END:VCARD
